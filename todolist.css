@@ -1,0 +1,75 @@
+body{
+    font-family: "poppins",cursive;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv58iHazMpWstnaH7ux7hspHOGqly_MYB-rg&usqp=CAU");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 70%;
+    background-position: center;
+    background-size: cover;
+    
+    }
+    
+    .container{
+    padding: 10px;
+    border: 2px thick double #1c0b33;
+    width: 400px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 500px;
+    background-color: brown;
+    border-radius: 30px;
+    border-color: white;
+    }
+    .container h1
+    {
+        margin-top: 60px;
+        margin-left: 100px;
+        color: initial;
+    }
+    
+    .container .input
+    {
+        margin-top: 40px;
+        padding-left: 20px;
+        margin-left: 90px;
+        height: 30px;
+        border-radius: 40px;
+    }
+    .container .btn {
+    width: 70px;
+    height: 35px;
+    border-radius: 10px;
+    margin-left: 15px;
+    background-color: blueviolet;
+    }
+    .container ul{
+    list-style: none;
+    padding: 1px;
+    
+    }
+    .container li{
+    color:black;
+    margin-left: 30px;
+    margin-top: 8px;
+    border-radius: 5px;
+    border-style: groove;
+    padding:5px;
+    background-color: orange;
+
+    }
+    .container li a{
+    float: right;
+    color: #000;
+    text-decoration: none;
+    }
+    .container #error{
+    color: #090;
+    font-size: 15px;
+    }
+    hr
+    {
+        width: 350px;
+        border: 2px black;
+        margin-top: 0px;
+    }
+    
